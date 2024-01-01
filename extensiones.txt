@@ -1,0 +1,8 @@
+***Extensiones de python***
+0. Python (Microsoft)
+1. Dar Formato:
+Nombre: Black Formatter (Microsoft)
+Configuración:
+a) https://code.visualstudio.com/docs/python/formatting 
+b) https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter
+2. Jupyter (Microsoft)
