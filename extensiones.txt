@@ -5,4 +5,20 @@ Nombre: Black Formatter (Microsoft)
 Configuración:
 a) https://code.visualstudio.com/docs/python/formatting 
 b) https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter
+
+Ctr+Shif+P -> para user y machine
+ "[python]": {
+        "editor.formatOnSaveMode": "file",
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+
 2. Jupyter (Microsoft)
+
+***Extensiones generales***
+0. Bracket Pair Colorization Toggler (Dzhavat Ushev)
+1. indent-rainbow (oderwat)
+2. Dev Containers (Microsoft)
+3. Remote - SSH (Microsoft)
+4. WSL (Microsoft)
+5. vscode-icons (Microsoft)
